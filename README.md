@@ -4,7 +4,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=claytoncastro&count_private=true&show_icons=true&theme=transparent" alt="ilustração do status do github">
   
 <p> 
- Bachelor's in Computer Science, technology enthusiast, I love to learn new things, always looking for innovation and improvement. I have been working as software developer for almost five years, always being challenged to improve and grow. <br><br>
+ Bachelor's in Computer Science, technology enthusiast, I love to learn new things, always looking for innovation and improvement. I have been working as software developer for almost six years, always being challenged to improve and grow. <br><br>
  I have experience ranging from the implementation of new features to building applications from scratch.
 </p>
 
